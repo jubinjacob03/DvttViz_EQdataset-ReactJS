@@ -8,6 +8,7 @@ A project based on Data Visualization Tools &amp; Techniques - Tableau. This is 
 - Internet connection is required for loading the Tableau webpage container using [Tableau API](https://help.tableau.com/current/api/embedding_api/en-us/index.html).
 
 # Installation
+- The Dataset used for analysis is attached along with all the files in the repository.
 - Use <code>git clone</code> command
 - Clone the repository
 - You cannot directly run this project after cloning the repo as node_modules is not attached because of <code>.gitignore</code> ( it contains the line that excludes the node_modules from being pushed to repository.)
@@ -17,6 +18,7 @@ A project based on Data Visualization Tools &amp; Techniques - Tableau. This is 
 - After creating the new react project copy all files from the repository to that directory.
 
 # Running the project
+- The Tableau publick link for this [project](https://public.tableau.com/views/Ca-4FINAL/Dashboard1). 
 - After successfully copying all the files, open any IDE
 - Open a seperate terminal and use the <code>cd</code> command to navigate to the project directory or If you are using VS Code use the built-in terminal.
 - [React-Router-Dom](https://reactrouter.com/en/main) package is used in this project, to install that package use command <code>npm install react-router-dom</code>.
