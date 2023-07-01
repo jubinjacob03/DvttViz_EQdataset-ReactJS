@@ -18,7 +18,7 @@ A project based on Data Visualization Tools &amp; Techniques - Tableau. This is 
 - After creating the new react project copy all files from the repository to that directory.
 
 # Running the project
-- The Tableau publick link for this [project](https://public.tableau.com/views/Ca-4FINAL/Dashboard1). 
+- The Tableau public link for this [project](https://public.tableau.com/views/Ca-4FINAL/Dashboard1). 
 - After successfully copying all the files, open any IDE
 - Open a seperate terminal and use the <code>cd</code> command to navigate to the project directory or If you are using VS Code use the built-in terminal.
 - [React-Router-Dom](https://reactrouter.com/en/main) package is used in this project, to install that package use command <code>npm install react-router-dom</code>.
